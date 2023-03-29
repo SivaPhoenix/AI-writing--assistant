@@ -37,8 +37,10 @@ Please make sure to update tests as appropriate.
 ## By Team Phoenix
 Team members:
 
-[SHIVANE](https://github.com/Shivane1204)
+[Siva](https://github.com/SivaPhoenix)
 
-[SRIRAAM](https://github.com/sriraam03)
+[Shivane](https://github.com/Shivane1204)
 
-[SUTHANI](https://github.com/suthani01)
+[Sriraam](https://github.com/sriraam03)
+
+[Suthani](https://github.com/suthani01)
