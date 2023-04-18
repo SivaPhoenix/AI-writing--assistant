@@ -1,3 +1,4 @@
+streamlit==1.21.0
 os-sys==2.1.4
 Pillow==9.4.0
 keras==2.11.0
