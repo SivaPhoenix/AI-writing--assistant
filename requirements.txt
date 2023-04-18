@@ -1,0 +1,14 @@
+os-sys==2.1.4
+Pillow==9.4.0
+keras==2.11.0
+numpy==1.24.2
+measure==0.5.1
+contours==0.0.2
+imutils==0.5.4
+opencv-python==4.7.0.72
+segments==2.2.1
+segmentation==0.2.2
+hypothesis==6.68.2
+hypothesis-auto==1.1.5
+Flask==2.2.3
+Django==4.1.7
